@@ -1,0 +1,99 @@
+---
+title: "About"
+---
+
+
+I am a recent graduate of Computer Science at New Jersey City University and I'm currently finishing my degree in Data Science at The University of Illinois. I'm eager to apply what I've learned in
+the classroom to solve real problems. I'm a fast learner and interested in learning new tools and technologies. I am a team player and love to collaborate, exchange ideas and learn from the more experienced coworkers. As proven by my school work and my previous experience I am goal-oriented and stay on the task until its successful completion. 
+
+
+
+### Skills
+
+- Data Visualization
+- Data Sourcing
+- Data Mining
+- Data Management 
+- Database Design
+- Machine Learning
+
+### Data Stack
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Data Tool Box**  
+- Excel | Python | SQL | SAS | R   
+:::
+::: {.text-end}
+
+:::
+:::
+
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Development Environments**  
+- VS Code | Jupyter | Pycharm | Rstudio | Literate Programming with Quarto and Rmarkdown
+:::
+::: {.text-end}
+
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Databases**  
+- MySQL | SQL Server | MariaDB | PostgreSQL
+:::
+::: {.text-end}
+
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**BI Tools**  
+- Tableau | Looker Studio | PowerBI 
+:::
+::: {.text-end}
+
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Operating Systems**  
+- Windows | CentOS | Ubuntu   
+:::
+::: {.text-end}
+
+:::
+:::
+
+### Education
+
+::: {.d-flex .justify-content-between}
+::: {}
+**University of Illinois**  
+MSc in Data Science  
+:::
+::: {.text-end}
+Champaign, Illinois
+
+In-Progress - Expected 2025
+:::
+:::
+
+
+::: {.d-flex .justify-content-between}
+::: {}
+**New Jersey City University**  
+Bachelor's of Science in Computer Science
+:::
+::: {.text-end}
+New Jersey, United States
+
+Conferred on 2022
+:::
+:::
+

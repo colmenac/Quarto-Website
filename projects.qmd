@@ -1,0 +1,37 @@
+## Exploratory analysis on factors contributing to loan attainment and institutional financial backing
+
+::: columns
+::: {.column width="55%"}
+An exploratory analysis on the likely factors that are considered when applying for a loan. I used   `LoanDashboard` to present the analysis! I was able to present my findings alongside the team that I lead using Looker.... [Watch the presentation](https://youtu.be/Plhw-jV8OKc){target=_blank}
+![View the Report](LoanDashboard.pdf)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](LoanDashboard.pdf)
+:::
+:::
+
+## Dashboard on Product Superstore
+
+::: columns
+
+
+::: {.column width="40%"}
+![](Order_Date_Dashboard.pdf)
+:::
+
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+
+This is a dashboard I did exploring the sales/discounts/refunds of... [Link to the Dashboard](https://lookerstudio.google.com/u/1/reporting/09ab9222-1ad4-4cdd-ab3a-113e06da5824/page/GATDD){target=_blank}
+:::
+
+
+:::
+

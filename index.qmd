@@ -1,0 +1,25 @@
+---
+title: "Carlos Colmena"
+image: mypic.jpg
+resources: Carlos_Colmena_Resume.docx
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 15em
+    links:
+        - text: Contact me
+          icon: envelope
+          href: https://colmenacarlos1979@gmail.com
+        - text: Resume
+          icon: file-text
+          href: Carlos_Colmena_Resume.pdf
+        - text: linkedin
+          href: https://linkedin.com/in/carloscolmena
+          icon: linkedin
+    id: ppc
+---
+
+:::{#ppc}
+I'm a data oriented individual with a keen analytical mindset and an enduring hardworking attitude. I'm a recent graduate from New Jersey City Univeristy and a current graduate student from the University of Illinois' selective Data Science program. I graduated from my class with top marks and have a proven track record of delivering excellant results. Wherever it is I go, I intend to make a positive impact and connect with other like-minded individuals. Pleased to meet you! 
+:::
+
